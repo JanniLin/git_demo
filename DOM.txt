@@ -4,3 +4,4 @@ Intelligent Code Completion
 The defineConfig helper function is exported by Cypress, and it provides automatic code completion for configuration in many popular code editors. While it's not strictly necessary for Cypress to parse your configuration, we recommend wrapping your config object with defineConfig() like this:
 
 some new content
+some more
