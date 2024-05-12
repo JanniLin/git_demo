@@ -1,12 +1,7 @@
-DOM — это независящий от платформы и языка программный интерфейс, позволяющий программам и скриптам получить доступ к содержимому HTML-, XHTML- и XML-документов, а также изменять содержимое, структуру и оформление таких документов. Модель DOM не накладывает ограничений на структуру документа.
-Launching Cypress for the first time, you will be guided through a wizard that will create a Cypress configuration file for you. This file will be cypress.config.js for JavaScript apps or cypress.config.ts for TypeScript apps. This file is used to store any configuration specific to Cypress.
-
+main additions
 
 
 __________________________________
-new
-content
-here
-in feature
+feature additions
 
 ____________
