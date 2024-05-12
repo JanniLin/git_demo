@@ -2,9 +2,6 @@ main additions
 
 
 __________________________________
-new
-content
-here
-in feature
+feature additions
 
 ____________
