@@ -1,13 +1,21 @@
 main additions
 here
 some
+after revert main
 
 
 __________________________________
 feature  additions here
+after revert feature
+here
+
 some 
 new
 text
 
+ feature
 ____________
 and here
+some
+new
+using tags
