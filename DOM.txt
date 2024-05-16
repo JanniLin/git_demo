@@ -10,7 +10,6 @@ here
 
 some 
 new
-text
 
  feature
 ____________
