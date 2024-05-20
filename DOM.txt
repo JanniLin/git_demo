@@ -5,6 +5,7 @@ after revert main
 1
 2
 3
++4
 
 __________________________________
 feature  additions here
@@ -23,3 +24,6 @@ and here
 some
 new
 using tags
+___________
+new branch
++1
