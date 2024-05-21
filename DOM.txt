@@ -1,6 +1,6 @@
 main additions
 here
-some
+
 after revert main
 1
 2
